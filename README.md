@@ -1,6 +1,6 @@
 # nextjs-i18n-postal-address
 
-Proof of concept of a Next.js app build with
+Proof of concept of a Next.js app built with
 [i18n-postal-address][i18n-postal-address].
 
 ## How to use
